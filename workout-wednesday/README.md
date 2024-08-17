@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/6d2e94f7-3474-428c-92f6-012ff9b2df26)
+[![image](https://github.com/user-attachments/assets/6d2e94f7-3474-428c-92f6-012ff9b2df26)](https://workout-wednesday.com/power-bi-challenges/)
+
 
 # Workout Wednesday Challenges
 
