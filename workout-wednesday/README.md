@@ -19,5 +19,5 @@ Enjoy exploring the solutions, and feel free to reach out if you have any questi
 
 | Project Name | Description | Dataset | GitHub |
 | --- | --- | --- | --- |
-| **2021 Week 1** | This challenge involves connecting to and modeling data in Power BI. The task is to create a cleaned dataset with teams from the Football Bowl Division, excluding specific values, and build a proper data model relating dimension tables to the fact table. The goal is to use as few steps as possible. | [Download Dataset](https://data.world/your-dataset-link) | [GitHub Repository](https://github.com/huseyincenik/power_bi/tree/main/workout-wednesday/2021_week_1) |
+| **2021 Week 1** | This challenge involves connecting to and modeling data in Power BI. The task is to create a cleaned dataset with teams from the Football Bowl Division, excluding specific values, and build a proper data model relating dimension tables to the fact table. The goal is to use as few steps as possible. | [Download Dataset](https://data.world/jbaucke/2021-w1-power-bi-wow-ncaa-financials) | [GitHub Repository](https://github.com/huseyincenik/power_bi/tree/main/workout-wednesday/2021_week_1) |
 
