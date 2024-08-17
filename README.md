@@ -57,7 +57,7 @@ If you'd like to contribute to this repository, feel free to:
 
 Thank you for visiting this repository! I hope you find these resources helpful in your Power BI journey.
 
-
-
-
 Happy Analyzing! 🚀
+
+[![](https://visitcount.itsvg.in/api?id=huseyincenik.power_bi&label=Visiter%20Count&color=10&icon=9&pretty=false)](https://visitcount.itsvg.in)
+
