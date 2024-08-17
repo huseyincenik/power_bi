@@ -49,6 +49,15 @@ If you'd like to contribute to this repository, feel free to:
 - **[GitHub](https://github.com/huseyincenik)** 
 - **[LinkedIn](https://www.linkedin.com/in/huseyincenik)** 
 
+# Projects
+
+| Project Name | Description | GitHub |
+| --- | --- | --- |
+| **Workout Wednesday** | Participate in the Workout Wednesday challenges, which focus on re-creating data-driven visualizations using Power BI. Each week features a new challenge to practice and enhance your Power BI skills. | [GitHub](https://github.com/huseyincenik/power_bi/edit/main/workout-wednesday/) |
+
 Thank you for visiting this repository! I hope you find these resources helpful in your Power BI journey.
+
+
+
 
 Happy Analyzing! 🚀
