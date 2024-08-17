@@ -46,9 +46,8 @@ If you'd like to contribute to this repository, feel free to:
 
 ## Connect with Me
 
-- **GitHub:** [Your GitHub Profile Link]
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Twitter:** [Your Twitter Handle]
+- **[GitHub](https://github.com/huseyincenik)** 
+- **[LinkedIn](https://www.linkedin.com/in/huseyincenik)** 
 
 Thank you for visiting this repository! I hope you find these resources helpful in your Power BI journey.
 
