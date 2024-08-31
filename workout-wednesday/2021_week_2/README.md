@@ -1,6 +1,7 @@
 # Workout Wednesday 2021 Week 2 | Power BI: Creating Basic KPI Report
 
-![image](https://github.com/user-attachments/assets/e9be62c5-c52f-4aaf-9be5-d28353b5ab51)
+![image](https://github.com/user-attachments/assets/848b1cb0-b18f-46c2-a039-e2bd90f683b7)
+
 
 Welcome to my solution for the **Workout Wednesday 2021 Week 2** challenge! This repository showcases my approach to creating a basic KPI report in Power BI.
 
