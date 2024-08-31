@@ -16,9 +16,13 @@ This repository contains my solutions to the **Workout Wednesday** challenges, d
 
 Enjoy exploring the solutions, and feel free to reach out if you have any questions!
 
-# Projects
+## Projects
 
 | Project Name | Description | Dataset | GitHub |
 | --- | --- | --- | --- |
-| **2021 Week 1** | This challenge involves connecting to and modeling data in Power BI. The task is to create a cleaned dataset with teams from the Football Bowl Division, excluding specific values, and build a proper data model relating dimension tables to the fact table. The goal is to use as few steps as possible. | [Download Dataset](https://data.world/jbaucke/2021-w1-power-bi-wow-ncaa-financials) | [GitHub Repository](https://github.com/huseyincenik/power_bi/tree/main/workout-wednesday/2021_week_1) |
+| **2021 Week 1** | **Power BI: Connecting To & Modeling Data** <br> This challenge involves creating a cleaned dataset with teams from the Football Bowl Division and building a data model properly relating dimension tables to the fact table. The goal is to use as few steps as possible. | [Download Dataset](https://data.world/jbaucke/2021-w1-power-bi-wow-ncaa-financials) | [GitHub Repository](https://github.com/huseyincenik/power_bi/tree/main/workout-wednesday/2021_week_1) |
+| **2021 Week 2** | **Power BI: Creating Basic KPI Report** <br> This task involves creating a basic KPI report using Power BI, incorporating important KPI reporting elements like BANs, trends, and breakdowns. The requirements include creating a new field for Total Profits and a KPI dashboard with high-level measures and trends. | [Download Dataset](https://data.world/jbaucke/2021-w2-power-bi-ncaa-financials) | [GitHub Repository](https://github.com/huseyincenik/power_bi/tree/main/workout-wednesday/2021_week_2) |
+| **2021 Week 3** | **Power BI: Adding Slicer and Interactivity** <br> This challenge involves enhancing the KPI report by adding a slicer for Year and editing interactions for better filtering of KPIs and bar charts. The goal is to improve interactivity and visualize how much money the MAC conference made in 2016. | [Download Dataset](https://data.world/jbaucke/2021-w3-power-bi-movie-ratings) | [GitHub Repository](https://github.com/huseyincenik/power_bi/tree/main/workout-wednesday/2021_week_3) |
+
+
 
