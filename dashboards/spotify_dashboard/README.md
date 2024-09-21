@@ -1,4 +1,5 @@
 # Advanced Spotify Data Dashboard with PowerPoint Background
+![image](https://github.com/user-attachments/assets/780141f0-ef38-46c2-a044-b59d193d8d7d)
 
 This project demonstrates the process of creating an advanced Power BI dashboard using Power BI visuals and a custom-designed PowerPoint background. The dashboard is built using Spotify song data, including metrics such as streaming statistics, playlist counts, and various song characteristics. 
 
