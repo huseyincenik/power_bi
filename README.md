@@ -56,6 +56,8 @@ If you'd like to contribute to this repository, feel free to:
 | **Workout Wednesday** | Participate in the Workout Wednesday challenges, which focus on re-creating data-driven visualizations using Power BI. Each week features a new challenge to practice and enhance your Power BI skills. | [GitHub](https://github.com/huseyincenik/power_bi/edit/main/workout-wednesday/) |
 | **Road Accident Dashboard** | A Power BI dashboard that analyzes road accident data for 2021 and 2022, providing insights on key metrics such as total casualties, vehicle types, road conditions, and accident severity. | [GitHub](https://github.com/huseyincenik/power_bi/tree/main/dashboards/road_accident_dashboard) |
 | **Spotify Data Dashboard** | An advanced Power BI dashboard analyzing Spotify song data, including streaming statistics, playlist counts, and song characteristics across platforms like Apple Music, Deezer, and Shazam. | [GitHub](https://github.com/huseyincenik/power_bi/tree/main/dashboards/spotify_dashboard) |
+
+
 Thank you for visiting this repository! I hope you find these resources helpful in your Power BI journey.
 
 Happy Analyzing! 🚀
