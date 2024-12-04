@@ -38,6 +38,7 @@ This repository includes:
 - **Templates:** Reusable Power BI templates for common reporting scenarios.
 - **Scripts:** Power Query and DAX scripts for data transformation and analysis.
 
+
 ## Contributing
 
 If you'd like to contribute to this repository, feel free to:
