@@ -1,7 +1,7 @@
-# Plant Co. Performance Dashboard - 2023 📊
+# Plant Co. Performance Dashboard 📊
 ![image](https://github.com/user-attachments/assets/d727a4b3-14e8-4e83-aa5e-1ef4265de5a7)
 
-This project showcases the **Plant Co. Performance Dashboard** for 2023 using **Power BI**. It highlights various aspects of data analysis, visualization, and dynamic reporting to evaluate gross profit across months, countries, and product types.
+This project showcases the **Plant Co. Performance Dashboard** for 2023, 2024 using **Power BI**. It highlights various aspects of data analysis, visualization, and dynamic reporting to evaluate gross profit across months, countries, and product types.
 
 ---
 
