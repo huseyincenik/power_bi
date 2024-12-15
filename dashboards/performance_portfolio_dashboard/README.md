@@ -1,6 +1,7 @@
-# Plant Co. Gross Profit Performance - 2023 📊
+# Plant Co. Performance Dashboard - 2023 📊
+![image](https://github.com/user-attachments/assets/d727a4b3-14e8-4e83-aa5e-1ef4265de5a7)
 
-This project showcases the **Plant Co. Gross Profit Performance Dashboard** for 2023 using **Power BI**. It highlights various aspects of data analysis, visualization, and dynamic reporting to evaluate gross profit across months, countries, and product types.
+This project showcases the **Plant Co. Performance Dashboard** for 2023 using **Power BI**. It highlights various aspects of data analysis, visualization, and dynamic reporting to evaluate gross profit across months, countries, and product types.
 
 ---
 
@@ -16,26 +17,6 @@ The report allows stakeholders to:
 - Identify the bottom-performing countries
 - Understand month-by-month gross profit trends
 - Analyze gross profit segmentation by product type
-
----
-
-## 📊 **Dashboard Highlights**
-1. **Top Metrics**:
-   - **YTD**: 5.15 M
-   - **YTD vs PYTD**: -265.29 B
-   - **PYTD**: 5.42 M
-   - **GP%**: 39.62%
-
-2. **Key Visuals**:
-   - **Waterfall Chart**: Gross Profit YTD vs PYTD per month
-   - **Treemap**: Bottom 10 Countries in terms of Gross Profit
-   - **Combo Chart**: Gross Profit by Product Type over Months
-   - **Scatter Chart**: Account Profitability Segmentation with GP% and Value YTD
-
-3. **Dynamic Features**:
-   - **Dynamic Chart Titles**: Automatically update based on filters
-   - **Axis Titles and Zoom Slider**: User-friendly interaction for visual analysis
-   - **Conditional Formatting**: Highlight key trends and deviations
 
 ---
 
