@@ -49,4 +49,4 @@ The report allows stakeholders to:
 ## 🚀 **How to Use This Project**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/huseyincenik/performance_portfolio_dashboard.git
+   git clone https://github.com/huseyincenik/power_bi.git
