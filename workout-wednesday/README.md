@@ -32,9 +32,3 @@ Enjoy exploring the solutions, and feel free to reach out if you have any questi
  | **2021 Week 10**  | **Power BI: Violin Plot Custom Visual** <br> This challenge focuses on using a Violin Plot custom visual to analyze and visualize daily average temperatures in Denver, Colorado, grouped by month in the year 2020.               | [Download Dataset](https://data.world/jbaucke/2021-w10-power-bi-wow-temperature-data)        | [GitHub Repository](https://github.com/huseyincenik/power_bi/tree/main/workout-wednesday/2021_week_10)          | ![Week 10 Preview](https://github.com/user-attachments/assets/ef1fa73f-b450-42dc-b54a-7722deeffde7) |
 | **2021 Week 11**   | **Power BI: Ribbon Chart to Bump Chart** <br> This challenge focuses on creating a **Ribbon Chart** and converting it to a **Bump Chart** in Power BI, using DAX measures to rank countries by sales and invert the Y-axis ranking. | [Financials Sample Dataset](https://data.world/jbaucke/2021-w11-power-bi-wow-financials)    | [GitHub Repository](https://github.com/huseyincenik/power_bi/tree/main/workout-wednesday/2021_week_11)          | ![Week 11 Preview](https://github.com/user-attachments/assets/7db35b9c-2a54-42e2-92da-13c6f93e9046) |
 | **2021 Week 12**   | **Power BI: Custom Sorting** <br> This challenge involves demonstrating various custom sorting methods in Power BI using the **Sales & Marketing Sample Dataset**. Includes sorting by a measure, a custom order, and alphabetical order. | [Sales & Marketing Sample Dataset](https://data.world/jbaucke/2021-w12-power-bi-wow-sales-marketing) | [GitHub Repository](https://github.com/huseyincenik/power_bi/tree/main/workout-wednesday/2021_week_12)          | ![Week 12 Preview](https://github.com/user-attachments/assets/2018e0eb-013e-4e44-8759-1b4081dd1ccb) |
-
-
-
-
-
-
